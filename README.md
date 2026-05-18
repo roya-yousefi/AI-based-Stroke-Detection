@@ -18,6 +18,22 @@ To build and evaluate a machine learning pipeline for stroke classification usin
 
 ---
 
+## 📁 Project Structure
+
+AI-based-Stroke-Detection/
+│
+├── scripts/                # Python preprocessing and ML scripts
+│   ├── preprocessing.py
+│   ├── feature_engineering.py
+│   └── model_training.py
+│
+├── images/                 # Dashboard screenshots
+│   └── Summary.jpg
+│
+└── README.md
+
+---
+
 ## ⚙️ Methodology
 
 ### 1. Data Preprocessing
