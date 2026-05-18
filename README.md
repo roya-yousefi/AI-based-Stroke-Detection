@@ -61,7 +61,7 @@ To build and evaluate a machine learning pipeline for stroke classification usin
 ### Summary
 Overview of EEG and clinical dataset insights.
 
-![Summary](images/summary.png)
+![Summary](images/Summary.jpg)
 
 ---
 
